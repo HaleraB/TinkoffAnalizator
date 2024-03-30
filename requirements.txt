@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+fasttext
+numpy
+PyQt6
+matplotlib
+nltk
+scipy
